@@ -27,9 +27,8 @@ Main script: maincode.mat
 📦 Geospatial prior information
 The priors for the LoveDA and GID datasets have been pre-computed and are available via cloud storage:
 
-Download link: [<your_cloud_link_here>]
-
-Extraction password: <your_password_here>
+Download link: https://pan.quark.cn/s/32df586be4b2
+Extraction password: WyiJ
 
 Please download and extract the prior data into the corresponding folders before running the augmentation module.
 
